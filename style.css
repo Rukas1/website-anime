@@ -188,7 +188,6 @@ section{
 #main_nav{
     height: 310px;
     background-color: rgba(218, 218, 218, 1);
-    overflow: auto;
 }
 
 
@@ -209,6 +208,8 @@ ol{
     margin-top: 0px;
     margin-left: 15px;
     font-size: 1.4em;
+    height: 235px;
+    overflow: auto;
 }
 
 
@@ -289,4 +290,4 @@ html{
 
 
 /*
-*{border: olive 2px solid;}
+*{border: #000 2px solid;}
